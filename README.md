@@ -1,2 +1,0 @@
-# Spider
-Multi thread crawler
